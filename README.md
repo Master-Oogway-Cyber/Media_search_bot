@@ -1,4 +1,4 @@
-## [Media Search bot](https://github.com/UvinduBro/Media-Search-bot)
+## [Media Search bot](https://github.com/Master-Oogway-Cyber/Media_search_bot)
 
 * Index channel/group files for inline search.
 * When you going to post file on telegram channel/group this bot will save that in database, So you can search that easily in inline mode.
@@ -7,7 +7,7 @@
 ### Installation
 
 ### Deploy to Heroku 🏃‍♂
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UvinduBro/Media-Search-bot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Master-Oogway-Cyber/Media_search_bot)
 
 #### Watch this video to create bot - [Video](https://youtu.be/dsuTn4qV2GA)
 
